@@ -1,7 +1,6 @@
-RISC V Enthusiast
+I hold a Bachelor's degree in Electrical and Computer Engineering from GNDECB. My passion for semiconductors ignited during my second year, and I am proficient in C, Assembly Language, Verilog HDL, and EDA tools like Xilinx Vivado and Intel Quartus Prime. I also have experience with various software and technologies, including VS Code, MATLAB, and GitHub, and I'm comfortable with both Windows and Linux operating systems.
 
-- Hi, I’m @mamuneeb, a final year Undergraduate Student pursuing B.E. in ECE from GNDEC, Bidar. I’m interested in Computer Architecture, RISC V, Digital Electronics, RTL Design and FPGA Prototyping. I had designed a simple and basic RISC V Core. I’m currently working on Design of pipelined RISC V Cores using Verilog. I’m Research Enthusiast and want to pursue career in Hardware Design specialized in RISC V. I had already published a Research Paper entitled "A Complete Survey of RISC V Architecture" in International Conference. I am open for collaborations regarding RISC V Based projects, Research Papers etc.
-- Feel free to reach me out : mamuneeb@ieee.org. 
+I've authored three research papers, including one on softprocessor RISCV-EC, published in the Springer Series, and another on a Physically Unclonable Function Architecture in a Scopus-indexed journal. I served as the Student Chair of IEEE SB & IEEE CASS SC GNDECB, leading our chapter to win an award in 2021-2022. My interests lie in Computer Architecture, Digital Design, FPGAs, Heterogeneous Computing, Front-end VLSI Design, and Processor Design. I'm open to collaborations and can be reached at mamuneeb@ieee.org or +91 7019066354. Feel free to connect with me. 
 <!--  My LinkedIn : [M A Muneeb] >
 
 <!---
